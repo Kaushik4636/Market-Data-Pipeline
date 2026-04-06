@@ -1,0 +1,12 @@
+# Python
+__pycache__/
+*.pyc
+.env
+
+# Local Data
+latest_trending.csv
+*.log
+
+# IDE
+.vscode/
+.idea/
